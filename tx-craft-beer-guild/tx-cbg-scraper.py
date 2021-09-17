@@ -16,7 +16,7 @@ options.add_argument ("lang=en_us")
 options.page_load_strategy = 'eager'
 # options.add_argument('--disable-blink-features=AutomationControlled')
 # options.add_argument("--headless")
-driver = webdriver.Chrome(executable_path='/home/juicobowley/repos/tx-cbg-scraper/chromedriver', options = options)
+driver = webdriver.Chrome(executable_path='./chromedriver', options = options)
 driver.get('chrome://settings/')
 driver.execute_script('chrome.settingsPrivate.setDefaultZoom(0.25);')
 
@@ -44,6 +44,7 @@ def make_item_row():
 
 def make_brewery_row():
     brewery_row = {}
+    brewery_row['brewery_name'] = None
     brewery_row['brewery_url'] = None
     brewery_row['brewery_phone'] = None
     brewery_row['brewery_coordinates'] = None
@@ -121,6 +122,10 @@ def scrape_individual_breweries(url):
     brewery_row = make_brewery_row()
     
     try:
+        brewery_row['brewery_name'] = identify_feature(brewery_row['brewery_url'], driver, '.SFbizctcnam').text
+    except:
+        print(f"Couldn't get brewery name")    
+    try:
         brewery_row['brewery_url'] = identify_feature(brewery_row['brewery_url'], driver, '.SFbizctcweb').get_attribute('href')
     except:
         print(f"Couldn't get brewery page url")
@@ -189,6 +194,11 @@ for brewery in items:
     scrape_individual_breweries(url)
 df2 = pd.DataFrame(brewerys)
 df2.to_csv('brewery_info.csv')
+
+
+merged =  df.join(df2, lsuffix='_', how='outer')
+
+merged.to_csv('merged.csv')
 
 # just a few quality of life things for myself for when the program finishes
 print(df.head())

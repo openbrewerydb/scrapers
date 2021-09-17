@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/juicobowley/repos/tx-cbg-scraper/env"
+VIRTUAL_ENV="/home/juicobowley/repos/scrapers/tx-craft-beer-guild/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

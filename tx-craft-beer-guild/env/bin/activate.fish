@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/juicobowley/repos/tx-cbg-scraper/env"
+set -gx VIRTUAL_ENV "/home/juicobowley/repos/scrapers/tx-craft-beer-guild/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
