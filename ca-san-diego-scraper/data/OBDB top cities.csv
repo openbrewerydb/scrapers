@@ -1,0 +1,620 @@
+"state","city","brewery_count"
+"Colorado","Denver",93
+"California","San Diego",91
+"Oregon","Portland",86
+"Washington","Seattle",73
+"Illinois","Chicago",65
+"Texas","Austin",54
+"California","San Francisco",39
+"Minnesota","Minneapolis",38
+"Ohio","Cincinnati",35
+"Indiana","Indianapolis",34
+"Texas","Houston",33
+"New Mexico","Albuquerque",32
+"North Carolina","Charlotte",31
+"Ohio","Columbus",30
+"Wisconsin","Milwaukee",30
+"New York","Brooklyn",29
+"Ohio","Cleveland",29
+"Colorado","Colorado Springs",28
+"Colorado","Boulder",27
+"North Carolina","Asheville",27
+"Pennsylvania","Pittsburgh",26
+"Michigan","Grand Rapids",25
+"Oregon","Bend",25
+"Pennsylvania","Philadelphia",25
+"California","Los Angeles",24
+"Colorado","Fort Collins",24
+"Missouri","Saint Louis",24
+"Minnesota","Saint Paul",23
+"North Carolina","Raleigh",23
+"Tennessee","Nashville",23
+"Virginia","Richmond",23
+"Washington","Spokane",23
+"Georgia","Atlanta",22
+"Kentucky","Louisville",21
+"Tennessee","Knoxville",21
+"Texas","Dallas",21
+"California","Sacramento",20
+"Florida","Tampa",20
+"Maryland","Baltimore",20
+"Missouri","Kansas City",20
+"Arizona","Tucson",19
+"Nevada","Reno",19
+"Utah","Salt Lake City",19
+"Washington","Tacoma",19
+"Arizona","Phoenix",18
+"District of Columbia","Washington",18
+"Maine","Portland",18
+"California","Anaheim",17
+"Oregon","Eugene",17
+"Washington","Vancouver",17
+"California","Oakland",16
+"California","Vista",16
+"Florida","Jacksonville",16
+"Florida","Miami",16
+"New York","Buffalo",16
+"North Carolina","Wilmington",16
+"South Carolina","Charleston",16
+"Texas","San Antonio",16
+"California","San Jose",15
+"California","Santa Rosa",15
+"Idaho","Boise",15
+"Nevada","Las Vegas",15
+"Wisconsin","Madison",15
+"Florida","Orlando",14
+"Michigan","Kalamazoo",14
+"New York","New York",14
+"Oklahoma","Oklahoma City",14
+"Colorado","Longmont",13
+"Florida","Saint Petersburg",13
+"Louisiana","New Orleans",13
+"Michigan","Detroit",13
+"Nebraska","Omaha",13
+"Texas","Fort Worth",13
+"Virginia","Virginia Beach",13
+"Washington","Bellingham",13
+"Alaska","Anchorage",12
+"California","Torrance",12
+"Colorado","Golden",12
+"Kentucky","Lexington",12
+"Michigan","Traverse City",12
+"Nebraska","Lincoln",12
+"New York","Rochester",12
+"Oklahoma","Tulsa",12
+"Washington","Woodinville",12
+"Arizona","Scottsdale",11
+"California","Oceanside",11
+"Colorado","Aurora",11
+"Kansas","Wichita",11
+"Massachusetts","Boston",11
+"Michigan","Ann Arbor",11
+"Michigan","Holland",11
+"New Mexico","Santa Fe",11
+"Ohio","Akron",11
+"Tennessee","Chattanooga",11
+"Arkansas","Little Rock",10
+"California","Carlsbad",10
+"California","Long Beach",10
+"California","Napa",10
+"California","Riverside",10
+"California","San Luis Obispo",10
+"California","Santa Cruz",10
+"Colorado","Loveland",10
+"Montana","Bozeman",10
+"Montana","Missoula",10
+"New York","Syracuse",10
+"Tennessee","Memphis",10
+"Virginia","Leesburg",10
+"Washington","Yakima",10
+"Arizona","Flagstaff",9
+"Arizona","Tempe",9
+"California","Ventura",9
+"Colorado","Littleton",9
+"Indiana","Fort Wayne",9
+"Maryland","Frederick",9
+"Minnesota","Duluth",9
+"New Hampshire","Portsmouth",9
+"North Carolina","Durham",9
+"North Carolina","Greensboro",9
+"Ohio","Dayton",9
+"Oregon","Corvallis",9
+"Oregon","Salem",9
+"Virginia","Fredericksburg",9
+"Virginia","Manassas",9
+"Virginia","Norfolk",9
+"Alabama","Birmingham",8
+"Alabama","Huntsville",8
+"Arkansas","Fayetteville",8
+"California","Berkeley",8
+"California","Fresno",8
+"Colorado","Greeley",8
+"Hawaii","Honolulu",8
+"Indiana","Bloomington",8
+"New York","Long Island City",8
+"North Carolina","Winston Salem",8
+"Oregon","Medford",8
+"Pennsylvania","Harrisburg",8
+"South Carolina","Columbia",8
+"South Carolina","Greenville",8
+"Wisconsin","Green Bay",8
+"California","Livermore",7
+"California","San Marcos",7
+"California","South Lake Tahoe",7
+"California","Temecula",7
+"Colorado","Arvada",7
+"Colorado","Lafayette",7
+"Colorado","Lakewood",7
+"Florida","Dunedin",7
+"Florida","Gainesville",7
+"Florida","Pensacola",7
+"Florida","Tallahassee",7
+"Iowa","Cedar Rapids",7
+"Montana","Billings",7
+"Nevada","Henderson",7
+"Pennsylvania","Erie",7
+"Vermont","Burlington",7
+"Virginia","Charlottesville",7
+"Virginia","Purcellville",7
+"Washington","Snohomish",7
+"Arizona","Chandler",6
+"California","Auburn",6
+"California","Paso Robles",6
+"California","Rancho Cucamonga",6
+"California","Santa Barbara",6
+"Colorado","Centennial",6
+"Colorado","Durango",6
+"Colorado","Westminster",6
+"Delaware","Rehoboth Beach",6
+"Florida","Bradenton",6
+"Florida","Clearwater",6
+"Florida","Fort Lauderdale",6
+"Florida","Fort Myers",6
+"Florida","Naples",6
+"Florida","Sarasota",6
+"Georgia","Savannah",6
+"Missouri","Springfield",6
+"Montana","Helena",6
+"New Hampshire","Manchester",6
+"New Mexico","Las Cruces",6
+"New York","Canandaigua",6
+"New York","Geneva",6
+"New York","New Paltz",6
+"New York","Riverhead",6
+"Oregon","Astoria",6
+"Oregon","Redmond",6
+"Oregon","Roseburg",6
+"Texas","Corpus Christi",6
+"Virginia","Ashburn",6
+"Virginia","Williamsburg",6
+"Washington","Bremerton",6
+"Washington","Everett",6
+"Washington","Olympia",6
+"Washington","Richland",6
+"Wisconsin","La Crosse",6
+"Arizona","Gilbert",5
+"Arizona","Mesa",5
+"Arizona","Prescott",5
+"Arkansas","Rogers",5
+"California","Burbank",5
+"California","Clovis",5
+"California","Corona",5
+"California","Elk Grove",5
+"California","Escondido",5
+"California","Fairfield",5
+"California","Huntington Beach",5
+"California","Murrieta",5
+"California","Santa Ana",5
+"Colorado","Broomfield",5
+"Colorado","Castle Rock",5
+"Delaware","Wilmington",5
+"Florida","Pompano Beach",5
+"Florida","Sanford",5
+"Georgia","Athens",5
+"Georgia","Marietta",5
+"Indiana","Carmel",5
+"Iowa","Des Moines",5
+"Kansas","Lawrence",5
+"Maine","Bangor",5
+"Massachusetts","Easthampton",5
+"Massachusetts","Worcester",5
+"Michigan","Grand Haven",5
+"Michigan","Howell",5
+"Michigan","Jackson",5
+"Michigan","Marquette",5
+"Michigan","Royal Oak",5
+"Minnesota","Rochester",5
+"Montana","Kalispell",5
+"New York","Farmingdale",5
+"New York","Poughkeepsie",5
+"North Carolina","Concord",5
+"North Carolina","Fayetteville",5
+"North Carolina","Fuquay Varina",5
+"Ohio","Cuyahoga Falls",5
+"Ohio","Toledo",5
+"Oregon","Beaverton",5
+"Oregon","Grants Pass",5
+"Oregon","Hillsboro",5
+"Oregon","Hood River",5
+"Oregon","McMinnville",5
+"Pennsylvania","Lancaster",5
+"Pennsylvania","Phoenixville",5
+"Pennsylvania","Williamsport",5
+"Pennsylvania","York",5
+"South Carolina","North Charleston",5
+"South Dakota","Sioux Falls",5
+"Tennessee","Clarksville",5
+"Texas","Boerne",5
+"Texas","New Braunfels",5
+"Texas","Plano",5
+"Texas","Round Rock",5
+"Texas","San Marcos",5
+"Virginia","Alexandria",5
+"Virginia","Staunton",5
+"Virginia","Sterling",5
+"Washington","Auburn",5
+"Washington","Bothell",5
+"Washington","Poulsbo",5
+"Washington","Puyallup",5
+"Washington","Walla Walla",5
+"Alabama","Mobile",4
+"Arizona","Glendale",4
+"Arizona","Peoria",4
+"California","Bakersfield",4
+"California","Carpinteria",4
+"California","Chico",4
+"California","Chula Vista",4
+"California","Davis",4
+"California","Eureka",4
+"California","Gardena",4
+"California","Goleta",4
+"California","La Jolla",4
+"California","Lodi",4
+"California","Novato",4
+"California","Orange",4
+"California","Pasadena",4
+"California","Petaluma",4
+"California","Placerville",4
+"California","Pomona",4
+"California","Rancho Cordova",4
+"California","Richmond",4
+"California","Rocklin",4
+"California","San Clemente",4
+"California","San Leandro",4
+"California","Santee",4
+"California","Sebastopol",4
+"California","Tustin",4
+"California","Westlake Village",4
+"California","Windsor",4
+"Colorado","Englewood",4
+"Colorado","Evergreen",4
+"Colorado","Highlands Ranch",4
+"Colorado","Louisville",4
+"Colorado","Montrose",4
+"Colorado","Pueblo",4
+"Colorado","Steamboat Springs",4
+"Connecticut","Hartford",4
+"Connecticut","Stratford",4
+"Delaware","Newark",4
+"Florida","Boynton Beach",4
+"Florida","Fernandina Beach",4
+"Florida","Jacksonville Beach",4
+"Florida","Palm Harbor",4
+"Florida","Saint Augustine",4
+"Florida","Winter Park",4
+"Georgia","Decatur",4
+"Georgia","Kennesaw",4
+"Idaho","Coeur D Alene",4
+"Idaho","Garden City",4
+"Illinois","Evanston",4
+"Illinois","Itasca",4
+"Illinois","Oak Park",4
+"Illinois","Peoria",4
+"Illinois","Rock Island",4
+"Illinois","Springfield",4
+"Indiana","Evansville",4
+"Indiana","Fishers",4
+"Indiana","New Albany",4
+"Indiana","Noblesville",4
+"Iowa","Dubuque",4
+"Kansas","Olathe",4
+"Louisiana","Baton Rouge",4
+"Maine","Orono",4
+"Maryland","Annapolis",4
+"Maryland","Gaithersburg",4
+"Maryland","Mount Airy",4
+"Maryland","Salisbury",4
+"Maryland","Silver Spring",4
+"Massachusetts","Lowell",4
+"Massachusetts","Plymouth",4
+"Massachusetts","Somerville",4
+"Michigan","Comstock Park",4
+"Michigan","Grayling",4
+"Michigan","Lansing",4
+"Missouri","Columbia",4
+"Missouri","Lees Summit",4
+"New Hampshire","Londonderry",4
+"New Hampshire","Nashua",4
+"New York","Albany",4
+"New York","Bay Shore",4
+"New York","Bronx",4
+"New York","Corning",4
+"New York","Hammondsport",4
+"New York","Holbrook",4
+"New York","Saratoga Springs",4
+"New York","Schenectady",4
+"North Carolina","Boone",4
+"North Carolina","Chapel Hill",4
+"North Dakota","Fargo",4
+"Ohio","Athens",4
+"Ohio","Canton",4
+"Ohio","Newark",4
+"Oregon","Gresham",4
+"Oregon","Oregon City",4
+"Pennsylvania","Bethlehem",4
+"Pennsylvania","Danville",4
+"Pennsylvania","Hanover",4
+"Pennsylvania","Wilkes Barre",4
+"Rhode Island","Providence",4
+"South Carolina","Lexington",4
+"South Dakota","Rapid City",4
+"South Dakota","Spearfish",4
+"Tennessee","Cookeville",4
+"Tennessee","Franklin",4
+"Texas","Abilene",4
+"Texas","Amarillo",4
+"Texas","Cedar Park",4
+"Texas","College Station",4
+"Texas","Dripping Springs",4
+"Texas","El Paso",4
+"Texas","Galveston",4
+"Texas","Katy",4
+"Texas","Lubbock",4
+"Texas","McKinney",4
+"Utah","Midvale",4
+"Utah","Ogden",4
+"Virginia","Hampton",4
+"Virginia","Harrisonburg",4
+"Washington","Battle Ground",4
+"Washington","Burlington",4
+"Washington","Edmonds",4
+"Washington","Leavenworth",4
+"Washington","Renton",4
+"Washington","Wenatchee",4
+"Wisconsin","Appleton",4
+"Wisconsin","Oshkosh",4
+"Wisconsin","Wausau",4
+"Wyoming","Jackson",4
+"Alabama","Madison",3
+"Alabama","Tuscaloosa",3
+"Alaska","Juneau",3
+"Alaska","Wasilla",3
+"Arizona","Lake Havasu City",3
+"Arizona","Sedona",3
+"California","Alameda",3
+"California","Camarillo",3
+"California","Claremont",3
+"California","Costa Mesa",3
+"California","Covina",3
+"California","Fremont",3
+"California","Glendale",3
+"California","Half Moon Bay",3
+"California","Hawthorne",3
+"California","Los Gatos",3
+"California","Madera",3
+"California","Martinez",3
+"California","Monrovia",3
+"California","Oxnard",3
+"California","Placentia",3
+"California","Ramona",3
+"California","Redding",3
+"California","Redlands",3
+"California","San Pedro",3
+"California","Santa Maria",3
+"California","Stockton",3
+"California","Sunnyvale",3
+"California","Truckee",3
+"California","Upland",3
+"California","Venice",3
+"California","West Sacramento",3
+"Colorado","Alamosa",3
+"Colorado","Brighton",3
+"Colorado","Carbondale",3
+"Colorado","Cortez",3
+"Colorado","Eagle",3
+"Colorado","Erie",3
+"Colorado","Estes Park",3
+"Colorado","Glenwood Springs",3
+"Colorado","Grand Junction",3
+"Colorado","Ouray",3
+"Colorado","Parker",3
+"Colorado","Telluride",3
+"Connecticut","Branford",3
+"Connecticut","Oxford",3
+"Connecticut","Wallingford",3
+"Florida","Cape Coral",3
+"Florida","Hollywood",3
+"Florida","Key West",3
+"Florida","Lakeland",3
+"Florida","Melbourne",3
+"Florida","New Port Richey",3
+"Florida","New Smyrna Beach",3
+"Florida","Santa Rosa Beach",3
+"Florida","Tarpon Springs",3
+"Florida","Titusville",3
+"Florida","Vero Beach",3
+"Florida","West Palm Beach",3
+"Georgia","Blue Ridge",3
+"Georgia","Macon",3
+"Georgia","Roswell",3
+"Georgia","Sandy Springs",3
+"Idaho","Hailey",3
+"Idaho","McCall",3
+"Idaho","Moscow",3
+"Idaho","Nampa",3
+"Idaho","Post Falls",3
+"Illinois","Belleville",3
+"Illinois","Downers Grove",3
+"Illinois","Lombard",3
+"Illinois","Naperville",3
+"Illinois","Normal",3
+"Illinois","Rockford",3
+"Illinois","Tinley Park",3
+"Indiana","Columbus",3
+"Indiana","Elkhart",3
+"Indiana","Greenwood",3
+"Indiana","Griffith",3
+"Indiana","Lafayette",3
+"Indiana","Michigan City",3
+"Indiana","South Bend",3
+"Indiana","Valparaiso",3
+"Iowa","Ames",3
+"Iowa","Ankeny",3
+"Iowa","Coralville",3
+"Iowa","Davenport",3
+"Iowa","West Des Moines",3
+"Kansas","Manhattan",3
+"Kansas","Topeka",3
+"Maine","Auburn",3
+"Maine","Bar Harbor",3
+"Maine","Biddeford",3
+"Maine","Brewer",3
+"Maine","Gorham",3
+"Maine","South Portland",3
+"Maryland","Columbia",3
+"Maryland","Rockville",3
+"Massachusetts","Everett",3
+"Massachusetts","Framingham",3
+"Massachusetts","Ipswich",3
+"Michigan","Baroda",3
+"Michigan","Benton Harbor",3
+"Michigan","Bridgman",3
+"Michigan","Decatur",3
+"Michigan","Ferndale",3
+"Michigan","Houghton",3
+"Michigan","Ludington",3
+"Michigan","Muskegon",3
+"Michigan","Northville",3
+"Michigan","Paw Paw",3
+"Michigan","Petoskey",3
+"Michigan","Portage",3
+"Michigan","Rockford",3
+"Michigan","Saint Clair Shores",3
+"Michigan","Sault Sainte Marie",3
+"Michigan","South Haven",3
+"Michigan","Warren",3
+"Michigan","Ypsilanti",3
+"Minnesota","Eagan",3
+"Minnesota","Long Lake",3
+"Minnesota","Saint Cloud",3
+"Minnesota","Shakopee",3
+"Missouri","O Fallon",3
+"Montana","Belgrade",3
+"Montana","Butte",3
+"Montana","Hamilton",3
+"Montana","Livingston",3
+"Nevada","Sparks",3
+"New Jersey","Hackettstown",3
+"New Jersey","Hammonton",3
+"New Mexico","Rio Rancho",3
+"New York","Auburn",3
+"New York","Fairport",3
+"New York","Glens Falls",3
+"New York","Hector",3
+"New York","Ithaca",3
+"New York","Lake Placid",3
+"New York","Patchogue",3
+"New York","Penn Yan",3
+"New York","Plattsburgh",3
+"New York","Staten Island",3
+"New York","Watertown",3
+"North Carolina","Arden",3
+"North Carolina","Belmont",3
+"North Carolina","Brevard",3
+"North Carolina","Carrboro",3
+"North Carolina","Cary",3
+"North Carolina","Cornelius",3
+"North Carolina","Greenville",3
+"North Carolina","Hendersonville",3
+"North Carolina","Hickory",3
+"North Carolina","High Point",3
+"North Carolina","Mooresville",3
+"North Carolina","Mount Airy",3
+"North Carolina","Rocky Mount",3
+"North Carolina","Weaverville",3
+"Ohio","Lakewood",3
+"Ohio","Lancaster",3
+"Ohio","Sylvania",3
+"Oklahoma","Norman",3
+"Oregon","Albany",3
+"Oregon","Cannon Beach",3
+"Oregon","Forest Grove",3
+"Oregon","Newberg",3
+"Oregon","Tillamook",3
+"Pennsylvania","Allentown",3
+"Pennsylvania","Ardmore",3
+"Pennsylvania","Butler",3
+"Pennsylvania","Carlisle",3
+"Pennsylvania","Chambersburg",3
+"Pennsylvania","Easton",3
+"Pennsylvania","Emmaus",3
+"Pennsylvania","Huntingdon Valley",3
+"Pennsylvania","Kennett Square",3
+"Pennsylvania","Meadville",3
+"Pennsylvania","Mechanicsburg",3
+"Pennsylvania","West Chester",3
+"Rhode Island","Cranston",3
+"Rhode Island","Pawtucket",3
+"South Carolina","Hilton Head Island",3
+"South Carolina","Mount Pleasant",3
+"South Carolina","Myrtle Beach",3
+"South Carolina","Ridgeland",3
+"Tennessee","Johnson City",3
+"Texas","Allen",3
+"Texas","Arlington",3
+"Texas","Conroe",3
+"Texas","Dickinson",3
+"Texas","Farmers Branch",3
+"Texas","Leander",3
+"Texas","Pearland",3
+"Texas","Rockwall",3
+"Texas","Waco",3
+"Utah","Park City",3
+"Vermont","Brattleboro",3
+"Vermont","South Burlington",3
+"Vermont","Waterbury",3
+"Virginia","Blacksburg",3
+"Virginia","Chantilly",3
+"Virginia","Culpeper",3
+"Virginia","Falls Church",3
+"Virginia","Lorton",3
+"Virginia","Roanoke",3
+"Virginia","Salem",3
+"Virginia","Waynesboro",3
+"Virginia","Winchester",3
+"Virginia","Woodbridge",3
+"Washington","Enumclaw",3
+"Washington","Gig Harbor",3
+"Washington","Issaquah",3
+"Washington","Kenmore",3
+"Washington","Kirkland",3
+"Washington","Marysville",3
+"Washington","Mead",3
+"Washington","Monroe",3
+"Washington","Moses Lake",3
+"Washington","Mount Vernon",3
+"Washington","Port Townsend",3
+"Washington","Redmond",3
+"Washington","Tumwater",3
+"Washington","Vashon",3
+"Washington","Washougal",3
+"West Virginia","Morgantown",3
+"Wisconsin","Eau Claire",3
+"Wisconsin","Glendale",3
+"Wisconsin","Oconomowoc",3
+"Wisconsin","Onalaska",3
+"Wisconsin","Waunakee",3
+"Wyoming","Cheyenne",3
+"Wyoming","Gillette",3
+"Wyoming","Laramie",3
+"Wyoming","Sheridan",3
